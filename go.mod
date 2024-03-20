@@ -15,5 +15,5 @@ require (
 	github.com/opencontainers/runc v1.0.0-rc1.0.20160706165155-9d7831e41d3e // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
 	golang.org/x/net v0.0.0-20160707223729-f841c39de738
-	golang.org/x/sys v0.0.0-20160704031755-a408501be4d1 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
